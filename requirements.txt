@@ -1,0 +1,3 @@
+telebot
+httpx
+user_agent
